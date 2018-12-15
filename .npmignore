@@ -1,0 +1,6 @@
+.vscode
+test/playground
+
+*.zip
+*.tgz
+*.tar

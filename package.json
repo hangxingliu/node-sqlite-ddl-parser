@@ -1,0 +1,34 @@
+{
+  "name": "sqlite-ddl-parser",
+  "version": "0.1.0",
+  "description": "A SQLite DDL parser module.",
+  "main": "index.js",
+  "dependencies": {
+    "lodash.get": "^4.4.2",
+    "sqlite-parser": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.15",
+    "intelli-espower-loader": "^1.0.1",
+    "mocha": "^5.2.0",
+    "power-assert": "^1.6.1"
+  },
+  "scripts": {
+    "test": "mocha --require intelli-espower-loader test/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hangxingliu/node-sqlite-ddl-parser.git"
+  },
+  "keywords": [
+    "sqlite",
+    "parser",
+    "ddl"
+  ],
+  "author": "Liu Yue",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hangxingliu/node-sqlite-ddl-parser/issues"
+  },
+  "homepage": "https://github.com/hangxingliu/node-sqlite-ddl-parser#readme"
+}
