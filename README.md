@@ -1,6 +1,12 @@
 # SQlite DDL Parser
 
-[![Build Status](https://travis-ci.org/hangxingliu/sqlite-ddl-parser.svg?branch=master)](https://travis-ci.org/hangxingliu/sqlite-ddl-parser)
+[![NPM version][npm-image]][npm-url]
+[![Build status][travis-image]][travis-url]
+
+[npm-image]: https://img.shields.io/npm/v/sqlite-ddl-parser.svg
+[npm-url]: https://npmjs.org/package/sqlite-ddl-parser
+[travis-image]: https://travis-ci.org/hangxingliu/node-sqlite-ddl-parser.svg?branch=master
+[travis-url]: https://travis-ci.org/hangxingliu/node-sqlite-ddl-parser
 
 A SQLite DDL([Data definition language](https://en.wikipedia.org/wiki/Data_definition_language)) parser module.
 
